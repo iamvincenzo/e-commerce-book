@@ -30,4 +30,14 @@ Creare un sistema di vendita di prodotti online:
      - Spedire gli ordini.
      - Acquisire i prodotti mancanti. I prodotti non devono essere duplicati. Si devono al massimo aggiornare il numero di copie esistenti. Quindi se si deve acquisire un prodotto, questo non deve essere già presente nel database.
    - Aggiornare il numero di copie disponibili.
-   - Visualizzare le statistiche delle vendite per ogni prodotto
+   - Visualizzare le statistiche delle vendite per ogni prodotto.
+
+Tecnologie utilizzate:
+
+  - HTML
+  - Framework Bootstrap
+  - CSS
+  - JQuery
+  - PHP
+  - Apache web server
+  - phpMyAdmin
