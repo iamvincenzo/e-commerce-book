@@ -13,11 +13,11 @@ Creare un sistema di vendita di prodotti online:
     - Visualizzare i prodotti.
     - Acquistare prodotti.
     - Effettuare ricerche sui prodotti per:
-▪ Titolo.
-▪ Autore.
-▪ Editore.
-▪ Anno di pubblicazione.
-▪ Nome del genere letterario.
+      - Titolo.
+      - Autore.
+      - Editore.
+      - Anno di pubblicazione.
+      - Nome del genere letterario.
 - Pagina di registrazione.
 - Pagina di login.
 - Pagina profilo dove si possono:
