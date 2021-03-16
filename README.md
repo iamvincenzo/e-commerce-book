@@ -3,9 +3,12 @@
 Specifiche progetto:
 
 Creare un sistema di vendita di prodotti online:
-- I prodotti online in questione sono: Libri.
-- Il sistema deve essere accessibile agli utenti tramite un sito web dinamico.
-- Home del sito dove si possono:
+
+  - I prodotti online in questione sono: Libri.
+
+  - Il sistema deve essere accessibile agli utenti tramite un sito web dinamico.
+
+  - Home del sito dove si possono:
 o Visualizzare i prodotti.
 o Acquistare prodotti.
 o Effettuare ricerche sui prodotti per:
